@@ -1,0 +1,9 @@
+{
+    "id": "BalatroModTemplate",
+    "name": "BalatroModTemplate1",
+    "author": ["Empty"],
+    "description": "Your description",
+    "prefix": "BMT",
+    "main_file": "main.lua",
+    "version": "0.0.1"
+}
