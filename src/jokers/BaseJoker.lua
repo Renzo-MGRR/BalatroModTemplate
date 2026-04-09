@@ -1,5 +1,5 @@
 SMODS.Joker{
-    key = 'MainJoker',
+    key = 'BaseJoker',
     atlas = 'placeholders',
     pos = {
         x = 0,
@@ -7,8 +7,8 @@ SMODS.Joker{
     },
     config = {
         extra = {
-            chips = 0,
-            mult = 0
+            chips = 1,
+            mult = 1
         }
     },
     rarity = 1,
